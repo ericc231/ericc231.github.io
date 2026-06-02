@@ -18,8 +18,7 @@ title: Eric's Blog # the main title
 
 tagline: 由好奇心驅動的學習筆記 — 科技、科學與哲學
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+  一個由好奇心驅動的個人部落格，記錄科技、科學與哲學的學習心得與生活點滴。
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://eric231.blog"
@@ -27,7 +26,7 @@ github:
   username: ericc231 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username:  # change to your Twitter username
 
 social:
   # Change to your full name.
