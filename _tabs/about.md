@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+嗨，我是 Eric。這裡是我記錄想法、整理技術筆記與學習心得的地方。
+
+我的好奇心橫跨科技、科學與哲學——從動手做的工程實作、AI 與工具實驗，到閱讀與思考的反芻。寫作對我來說，是讓想法流動、把複雜變簡單的過程。希望這些筆記對你也有幫助。
+
+歡迎透過側欄的 GitHub 與我交流。
